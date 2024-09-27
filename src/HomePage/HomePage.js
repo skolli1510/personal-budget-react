@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function HomePage() {
   return (
     <main className="center" id="main">
@@ -34,10 +35,10 @@ function HomePage() {
             <article>
                 <h1>Chart</h1>
                 <p>
-                    <canvas id="myChart" width="400" height="400"></canvas>
+                     {/* <canvas id="myChart" width="400" height="400"></canvas> */}
                 </p>
             </article>
-            <div id="pie-chart"></div>
+             {/* <div id="pie-chart"></div> */}
 
         </div>
 
